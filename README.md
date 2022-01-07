@@ -25,9 +25,10 @@
   </p>
 </p>
 
+
 <details>
   <summary>Stats</summary>
-	<div align="center">
+ <img align="center" src="https://komarev.com/ghpvc/?username=EmileRolley" />	<div align="center">
   <a href="https://github.com/EmileRolley">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmileRolley&count_private=true&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true" />
   </a>
