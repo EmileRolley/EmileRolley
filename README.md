@@ -47,8 +47,6 @@
 Currently,
 * 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
 * 🐪 I'm writting a [2D graphic renderer](https://github.com/EmileRolley/vgr-pixmap) in OCaml
-* 🔭 I'm  trying to contribute to open-source projects. In particular:
-  * ⚖️ to  the DSL [Catala](https://github.com/CatalaLang/catala)
+* 🔭 I'm starting to contribute to open-source projects. In particular:
+  * ⚖️ to the DSL [Catala](https://github.com/CatalaLang/catala)
   * 🐪 to the educational platform [learn-ocaml](git@github.com:ocaml-sf/learn-ocaml.git)
-* 🐤 I'm learning how to write [proofs](https://gitlab.com/nomadic-labs/coq-tezos-of-ocaml) in Coq
-* 🌱 I'm dreaming about a world filled with beautiful, sustainable and meaningful OSS
