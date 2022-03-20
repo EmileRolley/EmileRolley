@@ -33,7 +33,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmileRolley&count_private=true&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true" />
   </a>
   <a href="https://github.com/EmileRolley">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileRolley&langs_count=5&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true&layout=default&hide=css,html,Makefile,Yacc,FreeMarker,Lex,PHP,Vim%20script,CMake" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileRolley&langs_count=5&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true&layout=default&hide=tex,rescript,css,html,Makefile,Yacc,FreeMarker,Lex,PHP,Vim%20script,CMake" />
   </a>
   <center>
     <a href="https://github.com/EmileRolley">
