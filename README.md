@@ -49,4 +49,5 @@ Currently,
 * 🐪 I'm writting a [2D graphic renderer](https://github.com/EmileRolley/vgr-pixmap) in OCaml
 * 🔭 I'm starting to contribute to open-source projects. In particular:
   * ⚖️ to the DSL [Catala](https://github.com/CatalaLang/catala)
-  * 🐪 to the educational platform [learn-ocaml](git@github.com:ocaml-sf/learn-ocaml.git)
+  * 🐪 to the educational platform [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml.git)
+* 📷 I'm taking some [pictures](https://emilerolley.gitlab.io/psite/html/gallery.html) during my trekking trips.
