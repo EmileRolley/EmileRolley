@@ -5,7 +5,7 @@
 
   <p align="center">
     Computer science student at <a href="https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if">University of Bordeaux</a> with
-    a particular interest for programming languages, software verification and
+    a particular interest for programming languages, sustainable programming and
     the open-source community.
     <br />
     <a href="https://gitlab.com/EmileRolley">
@@ -46,8 +46,8 @@
 
 Currently,
 * 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
-* 🐪 I'm writting a [2D graphic renderer](https://github.com/EmileRolley/vgr-pixmap) in OCaml
-* 🔭 I'm starting to contribute to open-source projects. In particular:
-  * ⚖️ to the DSL [Catala](https://github.com/CatalaLang/catala)
+* 🔭 I'm contributing to open-source projects. In particular:
+  * ⚖️ to [Catala](https://github.com/CatalaLang/catala), a DSL designed for deriving correct-by-construction and transparent implementations from legislative texts.  
   * 🐪 to the educational platform [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml.git)
+* 🐪 I'm writting a [2D graphic renderer](https://github.com/EmileRolley/vgr-pixmap) in OCaml
 * 📷 I'm taking some [pictures](https://emilerolley.gitlab.io/psite/html/gallery.html) during my trekking trips.
