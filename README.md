@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">
-	  <strong>Hi, you 👋</strong>
+	  <strong>Emile Rolley</strong>
   </h3>
 
   <p align="center">
