@@ -25,24 +25,8 @@
   </p>
 </p>
 
+---
 
-<details>
-  <summary>Stats</summary>
- <img align="center" src="https://komarev.com/ghpvc/?username=EmileRolley" />	<div align="center">
-  <a href="https://github.com/EmileRolley">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmileRolley&count_private=true&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true" />
-  </a>
-  <a href="https://github.com/EmileRolley">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileRolley&langs_count=5&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true&layout=default&hide=tex,rescript,css,html,Makefile,Yacc,FreeMarker,Lex,PHP,Vim%20script,CMake" />
-  </a>
-  <center>
-    <a href="https://github.com/EmileRolley">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EmileRolley&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=22272E&border=DD272700&stroke=2D333B&fire=4F9BF5&ring=4F9BF5&dates=9FACB8&currStreakLabel=EC775C" />
-    </a>
-  </center>
-	</div>
-</details>
-<br>
 
 Currently,
 * 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
@@ -51,3 +35,14 @@ Currently,
   * 🐪 to the educational platform [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml.git)
 * 🐪 I'm writting a [2D graphic renderer](https://github.com/EmileRolley/vgr-pixmap) in OCaml
 * 📷 I'm taking some [pictures](https://emilerolley.gitlab.io/psite/html/gallery.html) during my trekking trips.
+
+---
+
+<div align="center">
+  <a href="https://github.com/EmileRolley">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmileRolley&count_private=true&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true" />
+  </a>
+  <a href="https://github.com/EmileRolley">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileRolley&langs_count=10&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true&layout=compact&exclude_repo=coca-project,os-tp&hide=css,makefile,html,freemarker,lex,vim script,shell" />
+  </a>
+</div>
