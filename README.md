@@ -35,12 +35,3 @@ Currently,
   * 🐪 to the educational platform [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml.git)
 * 🐪 I'm writting a [2D graphic renderer](https://github.com/EmileRolley/vgr-pixmap) in OCaml
 * 📷 I'm taking some [pictures](https://emilerolley.gitlab.io/psite/html/gallery.html) during my trekking trips.
-
----
-
-  <a href="https://github.com/EmileRolley">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=EmileRolley&count_private=true&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true" />
-  </a>
-  <a href="https://github.com/EmileRolley">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileRolley&langs_count=10&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true&layout=compact&exclude_repo=coca-project,os-tp&hide=css,makefile,html,freemarker,lex,vim script,shell" />
-  </a>
