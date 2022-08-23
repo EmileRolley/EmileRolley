@@ -4,7 +4,7 @@
   </h3>
 
   <p align="center">
-    Computer science student at <a href="https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if">University of Bordeaux</a> with
+    Computer science student at <a href="https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if">University of Bordeaux</a> (on a break) with
     a particular interest in strongly typed programming languages and the open-source, trying to have a meaningful impact 💚
     <br />
     <a href="https://gitlab.com/EmileRolley">
@@ -28,6 +28,7 @@
 
 
 Currently,
-* 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
-* ⚖️ I'm a contributor to [Catala](https://github.com/CatalaLang/catala), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.  
+* 🌍 I'm working on the carbon footprint calculator [Nos Gestes Climat](https://nosgestesclimat.fr/).
+* ⚖️ I'm a contributor to [Catala](https://github.com/CatalaLang/catala), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.
+* 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux.
 * 📷 I'm taking some [pictures](https://emilerolley.gitlab.io/psite/html/gallery.html) during my trekking trips.
