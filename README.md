@@ -27,8 +27,6 @@
 ---
 
 
-Currently,
-* 🌍 I'm working on the carbon footprint calculator [Nos Gestes Climat](https://nosgestesclimat.fr/).
-* ⚖️ I'm a contributor to [Catala](https://github.com/CatalaLang/catala), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.
-* 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux.
-* 📷 I'm taking some [pictures](https://emilerolley.gitlab.io/psite/html/gallery.html) during my trekking trips.
+Currently, I'm working on:
+* 🌍 [Nos Gestes Climat](https://nosgestesclimat.fr/), the ADEME official carbon footprint simulator 
+* ⚖️ [Catala](https://github.com/CatalaLang/catala), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.
