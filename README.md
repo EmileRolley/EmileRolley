@@ -4,8 +4,7 @@
   </h3>
 
   <p align="center">
-    Computer science student at <a href="https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if">University of Bordeaux</a> (on a break) with
-    a particular interest in strongly typed programming languages and the open-source, trying to have a meaningful impact 💚
+    Human with a particular interest in strongly typed programming languages and the open-source, trying to have a meaningful impact 💚
     <br />
     <a href="https://gitlab.com/EmileRolley">
 	Gitlab 🦊
