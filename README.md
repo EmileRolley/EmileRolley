@@ -25,8 +25,13 @@
 
 ---
 
+> [!TIP]
+> **I'm available to work on a new project, so don't hesitate to contact me if you're interested.**
 
 Currently, I'm working on:
-- ⚖️ [Catala](https://catala-lang.org), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.
+- 🥥 [EkoFest](https://ekofest.fr), a lightweight and efficient web app for calculating the carbon footprint of events.
 - 🌍 [Nos Gestes Climat](https://nosgestesclimat.fr/), the ADEME official carbon footprint simulator.
 - 🏛️ [Publicodes](https://publi.codes/), a declarative language for modeling complex business domains by breaking them down into simple elementary rules.
+
+I previously worked on:
+- ⚖️ [Catala](https://catala-lang.org), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.
