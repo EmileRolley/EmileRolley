@@ -25,9 +25,6 @@
 
 ---
 
-> [!TIP]
-> **I'm available to work on a new project, so don't hesitate to contact me if you're interested.**
-
 Currently, I'm doing voluntary work on:
 - 🏛️ [Publicodes](https://publi.codes/), a declarative language for modeling complex business domains by breaking them down into simple elementary rules.
 - 🥥 [EkoFest](https://ekofest.fr), a lightweight and efficient web app for calculating the carbon footprint of events.
