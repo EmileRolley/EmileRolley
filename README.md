@@ -25,10 +25,11 @@
 
 ---
 
-Currently, I'm doing voluntary work on:
-- 🏛️ [Publicodes](https://publi.codes/), a declarative language for modeling complex business domains by breaking them down into simple elementary rules.
+Currently, I'm working on:
+- on a simulator to help with the process of changing your car for a cleaner, less expensive solution.
 - 🥥 [EkoFest](https://ekofest.fr), a lightweight and efficient web app for calculating the carbon footprint of events.
 
 I previously worked on:
+- 🥥 [EkoFest](https://ekofest.fr), a lightweight and efficient web app for calculating the carbon footprint of events.
 - ⚖️ [Catala](https://catala-lang.org), a programming language toolchain used to derive correct-by-construction and transparent implementations from legislative texts.
 - 🌍 [Nos Gestes Climat](https://nosgestesclimat.fr/), the ADEME official carbon footprint simulator.
