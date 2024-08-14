@@ -26,8 +26,8 @@
 ---
 
 Currently, I'm working on:
-- on a simulator to help with the process of changing your car for a cleaner, less expensive solution.
-- 🥥 [EkoFest](https://ekofest.fr), a lightweight and efficient web app for calculating the carbon footprint of events.
+- 🚗 on a simulator to help with the process of changing your car for a cleaner and less expensive solution.
+- 🏛️ [Publicodes](https://publi.codes/), a declarative language for modeling complex business domains by breaking them down into simple elementary rules
 
 I previously worked on:
 - 🥥 [EkoFest](https://ekofest.fr), a lightweight and efficient web app for calculating the carbon footprint of events.
