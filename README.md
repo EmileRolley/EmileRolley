@@ -6,12 +6,12 @@
   <p align="center">
     Human with a particular interest in strongly typed programming languages and the open-source, trying to have a meaningful impact 💚
     <br />
-    <a href="https://gitlab.com/EmileRolley">
-	Gitlab 🦊
+    <a href="https://calinou.coop">
+	Calinou 🫂
       <!-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="vertical-align: -0.225em;" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 26 24"><path d="M12.906 24L.403 14.723a1.073 1.073 0 0 1-.351-.497l-.002-.008a.926.926 0 0 1 .002-.609l-.002.007l1.463-4.437zM5.293.354l2.874 8.823H1.512L4.335.354a.517.517 0 0 1 .49-.353h.015h-.001L4.865 0c.212 0 .388.151.427.351v.003zm2.874 8.823h9.479L12.907 24zm17.595 4.436a.926.926 0 0 1-.002.609l.002-.007a1.074 1.074 0 0 1-.351.503l-.002.002L12.906 24L24.3 9.177zM21.477.354L24.3 9.177h-6.655L20.519.354a.436.436 0 0 1 .455-.353h-.001h.014c.227 0 .419.146.489.349l.001.004z" fill="#4f9bf5"/></svg> -->
     </a>
     •
-    <a href="mailto:emile.rolley@tuta.io">
+    <a href="mailto:emile@calinou.coop">
  	Mail 📨
      <!-- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" style="vertical-align: -0.225em;" height="20" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M2.158.934C.978.934.025 1.895.023 3.08C.017 9.74.005 16.413 0 23.066c.793-.297 1.67-.56 2.56-.918c6.188-2.485 11.249-4.598 11.253-6.983a1.66 1.66 0 0 0-.016-.23c-.32-2.356-5.916-3.087-5.908-4.166a.37.37 0 0 1 .05-.177c.673-1.184 3.336-1.128 4.316-1.212c.982-.085 3.285-.067 3.397-.773a.44.44 0 0 0 .005-.065c.003-.656-1.584-.913-1.584-.913s1.925.29 1.92 1.042a.445.445 0 0 1-.015.114c-.207.81-1.901.962-3.021 1.017c-1.06.054-2.673.175-2.679.695c0 .03.005.062.015.095c.253.76 6.167 1.127 9.95 3.102c2.178 1.136 3.26 3.004 3.757 4.974V3.08A2.14 2.14 0 0 0 21.866.934H2.158z" fill="#4f9bf5"/></svg> -->
     </a>
@@ -24,6 +24,8 @@
 </p>
 
 ---
+
+I'm working as developer in the worker-owned cooperatives [Calinou](https://calinou.coop) on public interest projects. I am versatile and enjoy working on all aspects of a project, from business modelling to integration into the user interface. I seek out technical challenges while paying particular attention to detail and design.
 
 Currently, I'm working on:
 - 🏛️ [Publicodes](https://publi.codes/), a declarative language for modeling complex business domains by breaking them down into simple elementary rules.
