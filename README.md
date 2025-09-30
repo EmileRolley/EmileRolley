@@ -25,7 +25,9 @@
 
 ---
 
-I'm working as developer in the worker-owned cooperatives [Calinou](https://calinou.coop) on public interest projects. I am versatile and enjoy working on all aspects of a project, from business modelling to integration into the user interface. I seek out technical challenges while paying particular attention to detail and design.
+Developer in the worker-owned cooperatives [Calinou](https://calinou.coop).
+
+I try as much as possible to work on public interest projects, with an emphasis on open-source solutions. I'm versatile and enjoy working on all aspects of a project, from business modelling to integration into the user interface. I seek out technical challenges while paying particular attention to detail and design.
 
 Currently, I'm working on:
 - 🏛️ [Publicodes](https://publi.codes/), a declarative language for modeling complex business domains by breaking them down into simple elementary rules.
